@@ -34,3 +34,4 @@ print "The standard variance is %d" % grades_std_deviation(variance)
 
 
 #This is a comment
+#bool(x)
